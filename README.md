@@ -22,7 +22,7 @@ Projeto rodando online: https://fast-badlands-92176-c36db2808f93.herokuapp.com/
 
 ![Logo](/public/imagem%201.PNG)
 ![Logo](/public/Imagem%202.PNG)
-![Logo](/public/imagem%203.PNG)
-![Logo](/public/imagem%204.PNG)
-![Logo](/public/imagem%205.PNG)
+![Logo](/public/Imagem%203.PNG)
+![Logo](/public/Imagem%204.PNG)
+![Logo](/public/Imagem%205.PNG)
 
